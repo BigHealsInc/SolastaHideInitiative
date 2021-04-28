@@ -1,0 +1,12 @@
+{
+	"Id": "SolastaHideInitiative",
+	"DisplayName": "SolastaHideInitiative",
+	"Author": "BigHealsInc",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": ["SolastaModApi"],
+	"AssemblyName": "SolastaHideInitiative.dll",
+	"EntryMethod": "SolastaHideInitiative.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/BigHealsInc/SolastaHideInitiative/main/SolastaHideInitiative/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
